@@ -1,0 +1,7 @@
+- 删除所有旧版FB；
+- license.txt和fb.m务必务必放在一起；
+- 打开fb.m函数仔细阅读提示；
+- 运行fb.m启动
+- license.txt有时效，失效后按提示重新获取；
+- 务必看使用教程：https://www.bilibili.com/video/BV1m34y1H7QB
+- 关注B站图通道及时获取更新和修复；
